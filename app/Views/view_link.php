@@ -7,8 +7,10 @@
                     <span aria-hidden="true">&times;</span>
                 </button>
             </div>
+
         </div>
         <!-- /.modal-content -->
+
     </div>
     <!-- /.modal-dialog -->
 </div>

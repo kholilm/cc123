@@ -4,7 +4,7 @@
     <div class="sidebar">
         <!-- Sidebar user panel (optional) -->
         <div class="user-panel mt-3 pb-3 mb-3 d-flex">
-            <div class="image" href="/" role="button">
+            <div class="image">
                 <img src="/assets/templated/dist/img/cc123.png" alt="Image" height="100" width="100">
             </div>
             <div class="info">
