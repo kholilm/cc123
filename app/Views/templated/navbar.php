@@ -10,7 +10,7 @@
             </li>
             <li class="nav-item d-none d-sm-inline-block">
                 <?php if (logged_in()) : ?>
-                    <a href="/logout" class="nav-link text-info">Logout</a>
+                    <a href="/logout" class="nav-link text-danger">Logout</a>
                 <?php endif  ?>
             </li>
         </ul>
