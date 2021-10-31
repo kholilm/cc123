@@ -46,7 +46,7 @@
                             <h6>SIMONE</h6>
                         </div>
                         <div class="icon">
-                            <i class="ion ion-person-add"></i>
+                            <i class="fa fa-users"></i>
                         </div>
                         <a href="http://10.14.150.146/simonev1_cso/" target="_blank" class="small-box-footer">SIMONE <i class="fas fa-arrow-circle-right"></i></a>
                         <a href="http://10.14.150.160/simonev2/" target="_blank" class="small-box-footer">SIMONE V2 <i class="fas fa-arrow-circle-right"></i></a>
@@ -59,7 +59,7 @@
                             <h6>Finesse</h6>
                         </div>
                         <div class="icon">
-                            <i class="ion ion-person-add"></i>
+                            <i class="fa fa-user-secret"></i>
                         </div>
                         <a href="#" class="small-box-footer"> <i class="fas fa-arrow-circle-"></i></a>
                         <a href="https://dcpccefnsa.cc.iconpln.co.id:8445/desktop/container/landing.jsp?locale=en_US" target="_blank" class="small-box-footer">
@@ -73,7 +73,7 @@
                             <h6>CRM</h6>
                         </div>
                         <div class="icon">
-                            <i class="ion ion-person-add"></i>
+                            <i class="fa fa-users"></i>
                         </div>
                         <a href="http://10.14.152.42:8080/crmv3/" target="_blank" class="small-box-footer">CRM <i class="fas fa-arrow-circle-right"></i></a>
                         <a href="http://crm.cc.iconpln.co.id:8080" target="_blank" class="small-box-footer">CRM Domain <i class="fas fa-arrow-circle-right"></i></a>
@@ -86,7 +86,7 @@
                             <h6>APKT</h6>
                         </div>
                         <div class="icon">
-                            <i class="ion ion-person-add"></i>
+                            <i class="fa fa-users"></i>
                         </div>
                         <a href="http://10.68.35.95" target="_blank" class="small-box-footer">APKT <i class="fas fa-arrow-circle-right"></i></a>
                         <a href="http://10.68.35.95/pages/home/ticket.aspx?" target="_blank" class=" small-box-footer">APKT Monitor <i class="fas fa-arrow-circle-right"></i></a>
@@ -99,7 +99,7 @@
                             <h6>AP2T</h6>
                         </div>
                         <div class="icon">
-                            <i class="ion ion-person-add"></i>
+                            <i class="fa fa-user-secret"></i>
                         </div>
                         <a href="http://10.72.35.8/ap2t/Login.aspx" target="_blank" class="small-box-footer">AP2T <i class="fas fa-arrow-circle-right"></i></a>
                         <a href="http://10.68.35.72" target="_blank" class="small-box-footer">AP2T WEB PLN <i class="fas fa-arrow-circle-right"></i></a>
@@ -112,7 +112,7 @@
                             <h6>P2APST</h6>
                         </div>
                         <div class="icon">
-                            <i class="ion ion-person-add"></i>
+                            <i class="fa fa-users"></i>
                         </div>
                         <a href="https://10.68.35.68/dacen/default/index.php" target="_blank" class="small-box-footer">P2APST <i class="fas fa-arrow-circle-right"></i></a>
                         <a href="https://hosting3.iconpln.net.id:2096/" target="_blank" class="small-box-footer">Email P2APST <i class="fas fa-arrow-circle-right"></i></a>
@@ -142,7 +142,7 @@
                             <h4>-</h4>
                         </div>
                         <div class="icon">
-                            <i class="ion ion-pie-graph"></i>
+                            <i class="fa fa-user-secret"></i>
                         </div>
                         <a href="http://10.14.151.61:8181/intermapv2/public/" target="_blank" class="small-box-footer">INTERMAP V2 / KNOWLEDGE <i class="fas fa-arrow-circle-right"></i></a>
                         <a href="https://forms.gle/8QY6GeWTBrKdqv859" target="_blank" class="small-box-footer">ICONNET (Penginputan Data) <i class="fas fa-arrow-circle-right"></i></a>
@@ -156,7 +156,7 @@
                             <h4>-</h4>
                         </div>
                         <div class="icon">
-                            <i class="ion ion-pie-graph"></i>
+                            <i class="fa fa-user-secret"></i>
                         </div>
                         <a href="http://stimulusrm.pln.co.id/" target="_blank" class="small-box-footer">Stimulus RM & Rupiah Beban <i class="fas fa-arrow-circle-right"></i></a>
                         <a href="http://10.68.35.119:9090/" target="_blank" class="small-box-footer">Skema Lonjakan Tagihan <i class="fas fa-arrow-circle-right"></i></a>
@@ -199,7 +199,7 @@
                         <div class="col-lg-2 col-2">
                             <div class="small-box bg-success">
                                 <div class="inner">
-                                    <h6>STROOM & PANAS</h6>
+                                    <h8>STROOM-PANAS</h8>
                                 </div>
                                 <div class="icon">
                                     <i class="fa fa-bug" aria-hidden="true"></i>
@@ -250,58 +250,36 @@
                             </div>
                         </div>
                     </section>
+                    <!-- ./Left col -->
 
+                    <!-- right col -->
                     <section class="col-lg-6 connectedSortable">
-                        <!-- Map card -->
-                        <div class="card bg-gradient-primary">
-                            <div class="card-header border-0">
-                                <i class="fas fa-map-marker-alt mr-1"></i>
-                                <a href="https://www.google.co.id/maps/" target="_blank" class="btn btn-light">Google Maps</a>
-                            </div>
-                            <div class="card-body">
-                                <div id="world-map" style="height: 250px; width: 100%;"></div>
-                            </div>
-                            <!-- /.card-body-->
-                            <div class="card-footer bg-transparent">
-                                <div class="row">
-                                    <div class="col-4 text-center">
-                                        <div id="sparkline-1"></div>
-                                        <div class="text-white">-</div>
-                                    </div>
-                                    <!-- ./col -->
-                                    <div class="col-4 text-center">
-                                        <div id="sparkline-2"></div>
-                                        <div class="text-white">-</div>
-                                    </div>
-                                    <!-- ./col -->
-                                    <div class="col-4 text-center">
-                                        <div id="sparkline-3"></div>
-                                        <div class="text-white">-</div>
+                        <div class="col">
+                            <div class="card shadow">
+                                <div class="inner">
+                                    <img src="/assets/templated/dist/img/114.jpg" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                        <h5 class="card-title">Contact Center Balikpapan </h5>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <!-- /.card -->
                     </section>
-                    <!-- right col -->
+                    <!-- ./right col -->
                 </div>
                 <!-- /.row (main row) -->
             </div><!-- /.container-fluid -->
 
     </section>
-
     <!-- /.content -->
+
+    <!-- card image -->
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg">
                 <div class="card shadow" style="width: 20rem;">
                     <div class="">
-                        <img src="/assets/templated/dist/img/pray.jpeg" class="card-img-top" alt="...">
-                    </div>
-                    <div class="card-body text-center">
-                        <h5 class="p1">Don't Forget To Pray</h5>
-                        <p class="card-text">
-                            Don't forget to always remember God wherever you are</p>
+                        <img src="/assets/templated/dist/img/192-43.jpg" class="card-img-top" alt="...">
                     </div>
                 </div>
             </div>
@@ -319,16 +297,10 @@
             <div class="col-lg">
                 <div class="card shadow" style="width: 20rem;">
                     <div class="">
-                        <img src="/assets/templated/dist/img/the.jpeg" class="card-img-top" alt="...">
-                    </div>
-                    <div class="card-body text-center">
-                        <h5 class="p1">Love Yourself</h5>
-                        <p class="card-text">“Do you want to know who you are? Don’t ask. Act! Action will delineate and define you.”
-                            —Thomas Jefferson</p>
+                        <img src="/assets/templated/dist/img/123.jpg" class="card-img-top" alt="...">
                     </div>
                 </div>
             </div>
-
             <!-- di -->
             <div region="center" border="false">
                 <div id="tt" class="easyui-tabs" fit="true" border="false" plain="true" cache="false">
@@ -338,6 +310,7 @@
             <!-- bats -->
         </div>
     </div>
+    <!-- ./card image -->
 </div>
 <script>
     function addTab(title, url) {
@@ -371,5 +344,8 @@
 
 <?= $this->section('js') ?>
 <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-kQtW33rZJAHjgefvhyyzcGF3C5TFyBQBA13V1RKPf4uH+bwyzQxZ6CmMZHmNBEfJ" crossorigin="anonymous"></script> -->
-<link rel="stylesheet" href="/assets/templated/dist/js/bootstrap.bundle.min.js">
+<script src="/assets/templated/dist/js/slim.min.js"></script>
+<script src="/assets/templated/dist/js/popper.min.js"></script>
+<script src="/assets/templated/dist/js/bootstrap.min.js"></script>
+<script src="/assets/templated/dist/js/bootstrap.bundle.min.js"></script>
 <?= $this->endSection() ?>

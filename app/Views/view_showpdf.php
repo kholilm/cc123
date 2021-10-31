@@ -47,6 +47,7 @@
                 </button>
             </div>
             <!-- content link -->
+            <!-- smallbox 1 -->
             <section class="content">
                 <div class="container-fluid">
                     <div class="row">
@@ -56,7 +57,7 @@
                                     <h6>SIMONE</h6>
                                 </div>
                                 <div class="icon">
-                                    <i class="ion ion-person-add"></i>
+                                    <i class="fa fa-users"></i>
                                 </div>
                                 <a href="http://10.14.150.146/simonev1_cso/" target="_blank" class="small-box-footer">SIMONE <i class="fas fa-arrow-circle-right"></i></a>
                                 <a href="http://10.14.150.160/simonev2/" target="_blank" class="small-box-footer">SIMONE V2 <i class="fas fa-arrow-circle-right"></i></a>
@@ -69,7 +70,7 @@
                                     <h6>Finesse</h6>
                                 </div>
                                 <div class="icon">
-                                    <i class="ion ion-person-add"></i>
+                                    <i class="fa fa-user-secret"></i>
                                 </div>
                                 <a href="#" class="small-box-footer"> <i class="fas fa-arrow-circle-"></i></a>
                                 <a href="https://dcpccefnsa.cc.iconpln.co.id:8445/desktop/container/landing.jsp?locale=en_US" target="_blank" class="small-box-footer">
@@ -83,7 +84,7 @@
                                     <h6>CRM</h6>
                                 </div>
                                 <div class="icon">
-                                    <i class="ion ion-person-add"></i>
+                                    <i class="fa fa-users"></i>
                                 </div>
                                 <a href="http://10.14.152.42:8080/crmv3/" target="_blank" class="small-box-footer">CRM <i class="fas fa-arrow-circle-right"></i></a>
                                 <a href="http://crm.cc.iconpln.co.id:8080" target="_blank" class="small-box-footer">CRM Domain <i class="fas fa-arrow-circle-right"></i></a>
@@ -96,7 +97,7 @@
                                     <h6>APKT</h6>
                                 </div>
                                 <div class="icon">
-                                    <i class="ion ion-person-add"></i>
+                                    <i class="fa fa-users"></i>
                                 </div>
                                 <a href="http://10.68.35.95" target="_blank" class="small-box-footer">APKT <i class="fas fa-arrow-circle-right"></i></a>
                                 <a href="http://10.68.35.95/pages/home/ticket.aspx?" target="_blank" class=" small-box-footer">APKT Monitor <i class="fas fa-arrow-circle-right"></i></a>
@@ -109,7 +110,7 @@
                                     <h6>AP2T</h6>
                                 </div>
                                 <div class="icon">
-                                    <i class="ion ion-person-add"></i>
+                                    <i class="fa fa-user-secret"></i>
                                 </div>
                                 <a href="http://10.72.35.8/ap2t/Login.aspx" target="_blank" class="small-box-footer">AP2T <i class="fas fa-arrow-circle-right"></i></a>
                                 <a href="http://10.68.35.72" target="_blank" class="small-box-footer">AP2T WEB PLN <i class="fas fa-arrow-circle-right"></i></a>
@@ -122,10 +123,10 @@
                                     <h6>P2APST</h6>
                                 </div>
                                 <div class="icon">
-                                    <i class="ion ion-person-add"></i>
+                                    <i class="fa fa-users"></i>
                                 </div>
-                                <a href="https://10.68.35.68/dacen/default/index.php" class="small-box-footer">P2APST <i class="fas fa-arrow-circle-right"></i></a>
-                                <a href="https://hosting3.iconpln.net.id:2096/" class="small-box-footer">Email P2APST <i class="fas fa-arrow-circle-right"></i></a>
+                                <a href="https://10.68.35.68/dacen/default/index.php" target="_blank" class="small-box-footer">P2APST <i class="fas fa-arrow-circle-right"></i></a>
+                                <a href="https://hosting3.iconpln.net.id:2096/" target="_blank" class="small-box-footer">Email P2APST <i class="fas fa-arrow-circle-right"></i></a>
                             </div>
                         </div>
 
@@ -152,7 +153,7 @@
                                     <h4>-</h4>
                                 </div>
                                 <div class="icon">
-                                    <i class="ion ion-pie-graph"></i>
+                                    <i class="fa fa-user-secret"></i>
                                 </div>
                                 <a href="http://10.14.151.61:8181/intermapv2/public/" target="_blank" class="small-box-footer">INTERMAP V2 / KNOWLEDGE <i class="fas fa-arrow-circle-right"></i></a>
                                 <a href="https://forms.gle/8QY6GeWTBrKdqv859" target="_blank" class="small-box-footer">ICONNET (Penginputan Data) <i class="fas fa-arrow-circle-right"></i></a>
@@ -166,7 +167,7 @@
                                     <h4>-</h4>
                                 </div>
                                 <div class="icon">
-                                    <i class="ion ion-pie-graph"></i>
+                                    <i class="fa fa-user-secret"></i>
                                 </div>
                                 <a href="http://stimulusrm.pln.co.id/" target="_blank" class="small-box-footer">Stimulus RM & Rupiah Beban <i class="fas fa-arrow-circle-right"></i></a>
                                 <a href="http://10.68.35.119:9090/" target="_blank" class="small-box-footer">Skema Lonjakan Tagihan <i class="fas fa-arrow-circle-right"></i></a>
@@ -209,7 +210,7 @@
                                 <div class="col-lg-2 col-2">
                                     <div class="small-box bg-success">
                                         <div class="inner">
-                                            <h6>STROOM & PANAS</h6>
+                                            <h7>STROOM-PANAS</h7>
                                         </div>
                                         <div class="icon">
                                             <i class="fa fa-bug" aria-hidden="true"></i>
@@ -249,6 +250,7 @@
                     </div><!-- /.container-fluid -->
 
             </section>
+            <!-- /.content -->
             <!--/. content link -->
         </div>
         <!-- /.modal-content -->
