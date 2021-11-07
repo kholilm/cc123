@@ -35,6 +35,7 @@ $routes->get('/', 'Home::index');
 $routes->get('/menu-input', 'Inputdata::index');
 $routes->get('/showpdf/(:any)', 'Showpdf::index');
 $routes->get('/view-login', 'Login::index');
+$routes->get('/view-tab', 'Tab::index');
 
 
 /*

@@ -232,6 +232,7 @@
                                         <a href="http://10.1.86.28/HEAT" target="_blank" class="small-box-footer">ITSM <i class="fas fa-arrow-circle-right"></i></a>
                                     </div>
                                 </div>
+
                                 <div class="col-lg-2 col-2">
                                     <div class="small-box bg-success">
                                         <div class="inner">

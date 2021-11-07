@@ -19,16 +19,12 @@
 	<link rel="stylesheet" href="/assets/templated/plugins/tempusdominus-bootstrap-4/css/tempusdominus-bootstrap-4.min.css">
 	<!-- iCheck -->
 	<link rel="stylesheet" href="/assets/templated/plugins/icheck-bootstrap/icheck-bootstrap.min.css">
-	<!-- JQVMap -->
-	<link rel="stylesheet" href="/assets/templated/plugins/jqvmap/jqvmap.min.css">
 	<!-- Theme style -->
 	<link rel="stylesheet" href="/assets/templated/dist/css/adminlte.min.css">
 	<!-- overlayScrollbars -->
 	<link rel="stylesheet" href="/assets/templated/plugins/overlayScrollbars/css/OverlayScrollbars.min.css">
-	<!-- Daterange picker -->
-	<link rel="stylesheet" href="/assets/templated/plugins/daterangepicker/daterangepicker.css">
-	<!-- summernote -->
-	<link rel="stylesheet" href="/assets/templated/plugins/summernote/summernote-bs4.min.css">`
+
+
 
 	<?= $this->rendersection('css') ?>
 
@@ -37,25 +33,18 @@
 	<!-- jQuery UI 1.11.4 -->
 	<script src="/assets/templated/plugins/jquery-ui/jquery-ui.min.js"></script>
 	<!-- Resolve conflict in jQuery UI tooltip with Bootstrap tooltip -->
-	<!-- -->
 	<!-- Bootstrap 4 -->
 	<script src="/assets/templated/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
 	<!-- ChartJS -->
 	<script src="/assets/templated/plugins/chart.js/Chart.min.js"></script>
 	<!-- Sparkline -->
 	<script src="/assets/templated/plugins/sparklines/sparkline.js"></script>
-	<!-- JQVMap -->
-	<script src="/assets/templated/plugins/jqvmap/jquery.vmap.min.js"></script>
-	<script src="/assets/templated/plugins/jqvmap/maps/jquery.vmap.usa.js"></script>
 	<!-- jQuery Knob Chart -->
 	<script src="/assets/templated/plugins/jquery-knob/jquery.knob.min.js"></script>
-	<!-- daterangepicker -->
+
 	<script src="/assets/templated/plugins/moment/moment.min.js"></script>
-	<script src="/assets/templated/plugins/daterangepicker/daterangepicker.js"></script>
 	<!-- Tempusdominus Bootstrap 4 -->
 	<script src="/assets/templated/plugins/tempusdominus-bootstrap-4/js/tempusdominus-bootstrap-4.min.js"></script>
-	<!-- Summernote -->
-	<script src="/assets/templated/plugins/summernote/summernote-bs4.min.js"></script>
 	<!-- overlayScrollbars -->
 	<script src="/assets/templated/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js"></script>
 	<!-- AdminLTE App -->

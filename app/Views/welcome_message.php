@@ -1,6 +1,5 @@
 <?= $this->extend('templated/main') ?>
 <?= $this->section('content') ?>
-
 <div class="content-wrapper">
     <!-- caraousel -->
     <div class="content-header">
@@ -257,9 +256,9 @@
                         <div class="col">
                             <div class="card shadow">
                                 <div class="inner">
-                                    <img src="/assets/templated/dist/img/114.jpg" class="card-img-top" alt="...">
+                                    <img src="/assets/templated/dist/img/pain.jpeg" class="card-img-top" alt="...">
                                     <div class="card-body">
-                                        <h5 class="card-title">Contact Center Balikpapan </h5>
+                                        <h5 class="card-title"> </h5>
                                     </div>
                                 </div>
                             </div>
@@ -270,48 +269,49 @@
                 <!-- /.row (main row) -->
             </div><!-- /.container-fluid -->
 
+            <!-- card image -->
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg">
+                        <div class="card shadow" style="width: 20rem;">
+                            <div class="">
+                                <img src="/assets/templated/dist/img/192-43.jpg" class="card-img-top" alt="...">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg">
+                        <div class="card shadow" style="width: 20rem;">
+                            <div class="inner">
+                                <img src="/assets/templated/dist/img/luffy.jpeg" class="card-img-top" alt="...">
+                            </div>
+                            <div class="card-body text-center">
+                                <h5 class="p1">Monkey D Luffy</h5>
+                                <p class="card-text">King Pirates</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg">
+                        <div class="card shadow" style="width: 20rem;">
+                            <div class="">
+                                <img src="/assets/templated/dist/img/192-42.jpg" class="card-img-top" alt="...">
+                            </div>
+                        </div>
+                    </div>
+                    <!-- di -->
+                    <div region="center" border="false">
+                        <div id="tt" class="easyui-tabs" fit="true" border="false" plain="true" cache="false">
+                        </div>
+
+                    </div>
+                    <!-- bats -->
+                </div>
+            </div>
+            <!-- ./card image -->
     </section>
     <!-- /.content -->
-
-    <!-- card image -->
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg">
-                <div class="card shadow" style="width: 20rem;">
-                    <div class="">
-                        <img src="/assets/templated/dist/img/192-43.jpg" class="card-img-top" alt="...">
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg">
-                <div class="card shadow" style="width: 20rem;">
-                    <div class="inner">
-                        <img src="/assets/templated/dist/img/luffy.jpeg" class="card-img-top" alt="...">
-                    </div>
-                    <div class="card-body text-center">
-                        <h5 class="p1">Monkey D Luffy</h5>
-                        <p class="card-text">King Pirates</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg">
-                <div class="card shadow" style="width: 20rem;">
-                    <div class="">
-                        <img src="/assets/templated/dist/img/123.jpg" class="card-img-top" alt="...">
-                    </div>
-                </div>
-            </div>
-            <!-- di -->
-            <div region="center" border="false">
-                <div id="tt" class="easyui-tabs" fit="true" border="false" plain="true" cache="false">
-                </div>
-
-            </div>
-            <!-- bats -->
-        </div>
-    </div>
-    <!-- ./card image -->
 </div>
+
+
 <script>
     function addTab(title, url) {
         if ($('#tt').tabs('exists', title)) {
